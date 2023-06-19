@@ -2,7 +2,8 @@
 
 ## Overview
 
-<img width="1058" alt="Screenshot 2023-06-20 at 2 48 33 AM" src="https://github.com/rijusougata13/springbootCompleteAuthentication/assets/52108435/7afd80aa-8652-4183-b860-cb1b73528cb8">
+![Uploading Screenshot 2023-06-20 at 3.02.46 AM.png…]()
+
 
 
 ## Details:
